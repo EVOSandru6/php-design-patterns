@@ -1,0 +1,3 @@
+2023-04-10 16:29:16: 'users:init' with data '"\/home\/andrey\/PhpstormProjects\/sandbox\/patterns\/mediatorusers.csv"'
+2023-04-10 16:29:16: 'users:created' with data '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"0c9cc596d4ac838919195ea6b98cb1fe"}}'
+2023-04-10 16:29:16: 'users:deleted' with data '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"0c9cc596d4ac838919195ea6b98cb1fe"}}'
